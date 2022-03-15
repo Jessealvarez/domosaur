@@ -7,3 +7,8 @@ img {
   align-items: flex-start;
   height: 300px;
 }
+
+#hide-me-area{
+  
+    float: right;
+}
